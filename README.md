@@ -1,8 +1,7 @@
 # Todo App
 
 A modern Todo application built using React and Vite.
-Link:
-https://your-project.vercel.app
+
 
 ## Features
 
